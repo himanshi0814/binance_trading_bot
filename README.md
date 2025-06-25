@@ -14,10 +14,15 @@ This is a simple Python-based trading bot that connects to the **Binance Futures
  
 binance-trading-bot/
 ├── .env # Stores your Binance API credentials
+
 ├── .gitignore # Prevents sensitive/log files from being committed
+
 ├── README.md # This file
+
 ├── requirements.txt # List of dependencies
+
 ├── trading_bot.py # Main Python bot script
+
 └── trading_bot.log # Log file (auto-generated)
 
 :Setup Instructions
