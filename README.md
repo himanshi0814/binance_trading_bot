@@ -11,6 +11,7 @@ This is a simple Python-based trading bot that connects to the **Binance Futures
 - ✅ Handles API errors gracefully
 
  📁 Folder Structure
+ 
 binance-trading-bot/
 ├── .env # Stores your Binance API credentials
 ├── .gitignore # Prevents sensitive/log files from being committed
@@ -22,10 +23,12 @@ binance-trading-bot/
 :Setup Instructions
 
 1. Clone the Repository
+   
 git clone https://github.com/himanshi0814/binance_trading_bot.git
 cd binance_trading_bot
 
-3. Install Dependencies
+2. Install Dependencies
+   
 pip install -r requirements.txt
 If you encounter issues with python-binance, install from source:
 pip install git+https://github.com/sammchardy/python-binance.git@master
